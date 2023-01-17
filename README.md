@@ -31,7 +31,7 @@ For this task, search around the web for the funniest GIF. Please mention the so
 
 ## Webpage Suggestion (Optional)
 
-One easy way to create webpages (that students in previous course iteraction reported using) is to write your text using Markdown (.md) and convert it into HTML format.
+One easy way to create webpages (that students in previous course iteration reported using) is to write your text using Markdown (.md) and convert it into HTML format.
 
 1. You can use a Jupyter notebook to first create a Markdown (by selecting the Markdown option from the dropdown menu in the above toolbar) and then convert it into HTML using the command 
 
@@ -40,3 +40,6 @@ jupyter nbconvert --to html notebook.ipynb
 ```
 
 2. You can also use online tools like these: https://markdowntohtml.com/.
+
+
+3. Feel free to use any other mechanism to create webpages though!
