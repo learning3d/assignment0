@@ -29,9 +29,9 @@ To get you used to uploading images on the webpage, search for a image with an i
 
 For this task, search around the web for the funniest GIF. Please mention the source as well.
 
-## Submission help
+## Webpage Suggestion (Optional)
 
-An easier way to create webpages is to write your text using Markdown (.md) and convert it into HTML format. 
+One easy way to create webpages (that students in previous course iteraction reported using) is to write your text using Markdown (.md) and convert it into HTML format.
 
 1. You can use a Jupyter notebook to first create a Markdown (by selecting the Markdown option from the dropdown menu in the above toolbar) and then convert it into HTML using the command 
 
@@ -40,4 +40,3 @@ jupyter nbconvert --to html notebook.ipynb
 ```
 
 2. You can also use online tools like these: https://markdowntohtml.com/.
-
