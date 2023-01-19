@@ -9,7 +9,10 @@ Goals: Throughout this course, for each assignment, you will be required to subm
 
 3. Please do not put any inappropriate content.
 
-4. Have fun in this assignment :)
+4. UPDATE: Since we have a size limit on the AFS user quota, there is a hard limit on the webpage submission to be of only 1MB (for this assignment only). Please adhere to this webpage size.
+
+5. Have fun in this assignment :)
+
 
 ## Task 1. ChatGPT
 
