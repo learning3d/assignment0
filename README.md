@@ -1,6 +1,6 @@
 # Assignment 0: Getting started with webpage submission
 
-Goals: Throughout this course, for each assignment, you will be required to submit a webpage of your results. So, the aim of this assignment is to get you familiar with the submission process of the webpage. You will need to create a webpage which consists of text, images, and a GIF. The instructions for uploading your webpage to the class website can be referred [here](https://learning3d.github.io/pages/assignments/hw0.html).
+Goals: Throughout this course, for each assignment, you will be required to submit a webpage of your results. So, the aim of this assignment is to get you familiar with the submission process of the webpage. You will need to create a webpage which consists of text, images, and a GIF. The instructions for uploading your webpage to the class website can be referred [here](https://learning3d.github.io/hw0.html).
 
 ## Important Instructions
 1. Please note that this assignment only asks you to create a webpage. There is no Canvas submission of code for this assignment only.
